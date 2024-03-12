@@ -1,0 +1,99 @@
+.contenedorG
+{
+    background-color: aquamarine;
+    padding: 10px;
+    display: flex;
+    /*width: 600px;*/
+    height: 600px;
+    flex-direction: row;
+    /*flex-wrap: wrap;*/
+    align-content: center;
+}
+.contenedor1
+{
+    background-color: red;
+    padding: 10px;
+    display: flex;
+    /*width: 600px;*/
+    height: 600px;
+    flex-direction: row;
+    /*flex-wrap: wrap;*/
+    align-content: center;
+}
+.contenedor2
+{
+    background-color: lightcoral;
+    padding: 10px;
+    display: flex;
+    /*width: 600px;*/
+    height: 600px;
+    flex-direction: row;
+    /*flex-wrap: wrap;*/
+    align-content: center;
+}
+.contenedor3
+{
+    background-color: blue;
+    padding: 10px;
+    display: flex;
+    /*width: 600px;*/
+    height: 600px;
+    flex-direction: row;
+    /*flex-wrap: wrap;*/
+    align-content: center;
+}
+.caja1
+{
+    background-color:red;
+    width: 150px;
+    margin: 5px;
+ 
+}
+.caja2
+{
+    background-color: royalblue;
+    width: 150px;
+    margin: 5px;
+}
+.caja3
+{
+    background-color: palegreen;
+    width: 150px;
+    margin: 5px;
+}
+.caja4
+{
+    background-color: teal;
+    width: 150px;
+    margin: 5px;
+}
+.caja5
+{
+    background-color: orangered;
+    width: 150px;
+    margin: 5px;
+}
+.caja6
+{
+    background-color:lightblue;
+    width: 150px;
+    margin: 5px;
+}
+.caja7
+{
+    background-color: gray;
+    width: 150px;
+    margin: 5px;
+}
+.caja8
+{
+    background-color: palegoldenrod;
+    width: 150px;
+    margin: 5px;
+}
+.caja9
+{
+    background-color: yellowgreen;
+    width: 150px;
+    margin: 5px;
+}

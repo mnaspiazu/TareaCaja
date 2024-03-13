@@ -1,99 +1,194 @@
 .contenedorG
 {
     background-color: aquamarine;
-    padding: 10px;
+    padding: 100px;
     display: flex;
-    /*width: 600px;*/
+    /width: 600px;/
     height: 600px;
     flex-direction: row;
-    /*flex-wrap: wrap;*/
+    flex-wrap: wrap;
     align-content: center;
+
 }
 .contenedor1
 {
     background-color: red;
     padding: 10px;
-    display: flex;
-    /*width: 600px;*/
-    height: 600px;
+    width: 250px;
+    height: 800px;
     flex-direction: row;
-    /*flex-wrap: wrap;*/
     align-content: center;
+    flex-grow: 1;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+
 }
 .contenedor2
 {
     background-color: lightcoral;
     padding: 10px;
-    display: flex;
-    /*width: 600px;*/
-    height: 600px;
+    width: 600px;
+    height: 800px;
     flex-direction: row;
-    /*flex-wrap: wrap;*/
     align-content: center;
+    flex-grow: 2;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+
+    
 }
 .contenedor3
 {
     background-color: blue;
     padding: 10px;
     display: flex;
-    /*width: 600px;*/
-    height: 600px;
+    width: 250px;
+    height: 800px;
     flex-direction: row;
-    /*flex-wrap: wrap;*/
+    flex-wrap: wrap;
     align-content: center;
+    flex-grow: 3;
+    justify-content: center;
+    box-sizing: border-box;
+
 }
 .caja1
 {
-    background-color:red;
-    width: 150px;
+    background-color: rebeccapurple;
+    width: 100px;
+    height: 150px;
     margin: 5px;
- 
 }
 .caja2
 {
     background-color: royalblue;
-    width: 150px;
+    width: 100px;
+    height: 150px;
     margin: 5px;
 }
 .caja3
 {
     background-color: palegreen;
-    width: 150px;
+    width: 100px;
+    height: 150px;
     margin: 5px;
+    box-sizing: border-box;
 }
 .caja4
 {
     background-color: teal;
-    width: 150px;
+    width: 100px;
+    height: 150px;
     margin: 5px;
+    box-sizing: border-box;
+
 }
-.caja5
+.caja2o1
 {
     background-color: orangered;
     width: 150px;
+    height: 150px;
     margin: 5px;
 }
-.caja6
+.caja2o2
 {
     background-color:lightblue;
     width: 150px;
+    height: 150px;
     margin: 5px;
 }
-.caja7
+.caja2o3
 {
     background-color: gray;
     width: 150px;
+    height: 150px;
     margin: 5px;
 }
-.caja8
+.caja2o4
 {
     background-color: palegoldenrod;
     width: 150px;
+    height: 150px;
     margin: 5px;
 }
-.caja9
+.caja2o5
 {
     background-color: yellowgreen;
     width: 150px;
+    height: 150px;
     margin: 5px;
+}
+.caja2o6
+{
+    background-color:hotpink;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+.caja2o7
+{
+    background-color: darkseagreen;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+.caja2o8
+{
+    background-color: lightseagreen;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+.caja2o9
+{
+    background-color: firebrick;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+.caja3o1
+{
+    background-color: gray;
+    width: 345px;
+    height: 80px;
+    margin: 5px;
+}
+.caja3o2
+{
+    background-color: plum;
+    width: 100px;
+    height: 150px;
+    margin: 5px;
+}
+.caja3o3
+{
+    background-color: indianred;
+    width: 100px;
+    height: 150px;
+    margin: 5px;
+}
+.caja3o4
+{
+    background-color: greenyellow;
+    width: 345px;
+    height: 80px;
+    margin: 5px;
+}
+.caja3o5
+{
+    background-color: orangered;
+    width: 100px;
+    height: 150px;
+    margin: 5px;
+}
+.caja3o6
+{
+    background-color: lightgreen;
+    width: 100px;
+    height: 150px;
+    margin: 5px;
 }
